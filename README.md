@@ -8,3 +8,6 @@
 ####Ubuntu:sudo /etc/init.d/networking restart 
 ####MAC: sudo dscacheutil -flushcache;sudo killall -HUP mDNSResponder;say DNS cache flushed
 ---
+## ipv6 DNS
+
+* 2001:470:20::2 
